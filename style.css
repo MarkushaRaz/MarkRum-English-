@@ -1,0 +1,17 @@
+body {
+    color:black;
+    background-color:blanchedalmond;
+    font-family:Verdana;
+}
+a {
+    color:crimson;
+    text-decoration:none;
+}
+
+.center {
+    text-align:center;
+}
+.Header {
+    margin-top:40px;
+    margin-left:50px;
+}
